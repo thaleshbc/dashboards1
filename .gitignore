@@ -3,3 +3,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+.gitignore
+dashboards1.Rproj
+R/
+dados/
