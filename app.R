@@ -9,7 +9,6 @@ library(shiny)
 library(tidyr)
 
 
-
 ubs <- readr::read_rds(here::here("ubs_completa_final.rds"))
 municipios <- geobr::read_municipality()
 
